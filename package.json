@@ -1,7 +1,7 @@
 {
-  "name": "nichita-sindie-blog",
+  "name": "gatsby-typescript-storybook-starter",
   "private": true,
-  "description": "Hey, my name is Nichita",
+  "description": "A gatsby + typescript + storybook starter meant to help you build better web apps!",
   "version": "0.1.0",
   "author": "Nichita Sindie <nichita.sindie@gmail.com>",
   "dependencies": {
@@ -57,12 +57,5 @@
     "test": "jest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
